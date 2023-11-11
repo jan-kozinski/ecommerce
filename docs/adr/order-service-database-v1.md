@@ -5,7 +5,7 @@ choose database for order servie
 # Context and drivers
 
 - I want to test PostgreSQL and learn more about it
-- Order serice must operate without downtimes
+- Order service must operate without downtimes
 - Order records must be consistent
 - Order may have some unstructurized metadata in future (like appliead discount etc.)
 - Database must be well supported by swift tools
