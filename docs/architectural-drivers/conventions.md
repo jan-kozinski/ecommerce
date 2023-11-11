@@ -1,0 +1,4 @@
+- Postgre, Redis and Mongo are the only databases we want in this system
+- Kotlin, Swift, Javascript and Ruby are the only languages we want in this system
+- for Ruby use RSPEC for testing and avoid fixtures and Rails as framework
+- for JavaScript use jest for testing and Express as backend framework and React as frontend framework

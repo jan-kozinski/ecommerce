@@ -1,0 +1,8 @@
+- I want to learn more about software architecture
+- I want to write open source prototype of microservices app
+- I want to test server-side kotlin and server-side swift, and to compare them
+- I want to test PostgreSQL and learn more about it
+- I want to learn more about deployment and cloud services like AWS
+- I want to test React signals API
+- I want to learn more about monitoring tools
+- This prototype won't be a final product, it doesn't have to be perfect
